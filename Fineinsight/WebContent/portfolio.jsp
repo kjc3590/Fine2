@@ -15,9 +15,6 @@
 <link href="assets/css/style_our.css" rel="stylesheet">
 <link href="assets/css/responsive_portfolio.css" rel="stylesheet">
 
-
-
-
 </head>
 <body style="background: #d0d0d0;">
 	<div id="preloader">
@@ -41,7 +38,7 @@
 					<span>Portfolio</span>
 				</h3>
 				<ul class="filter-wrapper">
-					<li><a href="#" class="an" data-filter="*" class="opc-main-bg">ALL
+					<li><a href="#" class="an" data-filter="*" class="opc-main-bg">ALLLLLLLLLLLLLL
 							WORKS</a></li>
 					<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
 							DESIGN</a></li>
