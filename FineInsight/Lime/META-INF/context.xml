@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/mysql"
+              auth="Container"
+              type="javax.sql.DataSource"
+              username="fineinsight"
+              password="fine0042"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost/fineinsight"
+              maxTotal="20"
+              maxIdle="10" />
+</Context>
