@@ -35,7 +35,7 @@
 
 		
 
-			<div class="owl-carousel">
+			<div class="owl-carousel">  
 				<div class="col-md-12 no-col-md">
 					<div class="wrap-about solution">
 						<div class="w-content">
