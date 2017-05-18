@@ -38,7 +38,7 @@
 					<span>Portfolio</span>
 				</h3>
 				<ul class="filter-wrapper">
-					<li><a href="#" class="an" data-filter="*" class="opc-main-bg">ALLLLLLLLLLLLLL
+					<li><a href="#" class="an" data-filter="*" class="opc-main-bg">ALL
 							WORKS</a></li>
 					<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
 							DESIGN</a></li>
