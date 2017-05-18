@@ -4,7 +4,7 @@
 <html lang="UTF-8">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>PortFolio</title>
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
