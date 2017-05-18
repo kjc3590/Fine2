@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/mysql"
+              auth="Container"
+              type="javax.sql.DataSource"
+              username="root"
+              password="1234"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://127.0.0.1:3306/fine_lime"
+              maxTotal="20"
+              maxIdle="10" />
+</Context>
