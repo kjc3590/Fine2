@@ -4,7 +4,10 @@
 <html lang="UTF-8">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>파인인사이트</title>
+<title>(주)파인인사이트 - 더 나은 미래로 향하는 창</title>
+<meta name="description"
+	content="UIUX디자인,기업홈페이지제작,반응형홈페이지제작,모바일어플리케이션제작">
+<meta name="author" content="(주)파인인사이트">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -41,9 +44,9 @@
 		<!--CONTENT-->
 
 		<%@ include file="/include/sidebar.jsp"%>
-		
+
 		<div id="mainban">
-		<div id="particles-js"></div>
+			<div id="particles-js"></div>
 
 
 			<div class="wrap-hero-content">
@@ -65,21 +68,21 @@
 
 
 	</div>
-<script src="assets/js/jquery-3.1.1.min.js"></script>
-<script
-	src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"
-	type="text/javascript"></script>
-<script src="assets/js/sidebar_index.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/typed.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/scrollreveal.min.js"></script>
-<script src="hututu/particles.js"></script>
-<script src="assets/js/app.js"></script>
-<script src="assets/js/custom.js"></script>
+	<script src="assets/js/jquery-3.1.1.min.js"></script>
+	<script
+		src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.magnific-popup.min.js"
+		type="text/javascript"></script>
+	<script src="assets/js/sidebar_index.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/typed.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+	<script src="assets/js/isotope.pkgd.min.js"></script>
+	<script src="assets/js/scrollreveal.min.js"></script>
+	<script src="hututu/particles.js"></script>
+	<script src="assets/js/app.js"></script>
+	<script src="assets/js/custom.js"></script>
 
 
 </body>
