@@ -5,7 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>(주)파인인사이트 - 더 나은 미래로 향하는 창</title>
-<meta name="description" content="UIUX디자인,기업홈페이지제작,반응형홈페이지제작,모바일어플리케이션제작">
+<meta name="description"
+	content="UIUX디자인,기업홈페이지제작,반응형홈페이지제작,모바일어플리케이션제작">
 <meta name="author" content="(주)파인인사이트">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
@@ -24,34 +25,35 @@
 	</div>
 	<!--/.PRELOADER END-->
 
-	
+
 	<%@ include file="/include/sidebar.jsp"%>
 	<div class="content-wrap" id="content-wrap">
 
 
-		<!--CONTENT-->	
+		<!--CONTENT-->
 
 		<!--PORTFOLIO IMAGE-->
 		<div class="portfolio-image" id="pv">
-			<div class="content-right col-md-3">
-				<h3 class="title-small">
-					<span>Portfolio</span>
-				</h3>
-				<ul class="filter-wrapper">
-					<li><a href="#" class="an" data-filter="*" class="opc-main-bg">ALL
-							WORKS</a></li>
-					<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
-							DESIGN</a></li>
-					<li><a href="#" class="opc-main-bg a1" data-filter=".classy">ClASSY
-							DESIGN</a></li>
-					<li><a href="#" class="opc-main-bg a2" data-filter=".develope">DEVELOPEMENT</a></li>
-					<li><a href="#" class="opc-main-bg a3" data-filter=".media1">MEDIA
-							PLANNING</a></li>
-
-				</ul>
-			
+			<div class="content-right col-md-4">
+				<div class="fix">
+					<div class="inner">
+						<ul class="filter-wrapper">
+							<li><a href="#" class="an" data-filter="*"
+								class="opc-main-bg">ALL WORKS</a></li>
+							<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
+									DESIGN</a></li>
+							<li><a href="#" class="opc-main-bg a1" data-filter=".classy">ClASSY
+									DESIGN</a></li>
+							<li><a href="#" class="opc-main-bg a2"
+								data-filter=".develope">DEVELOPEMENT</a></li>
+							<li><a href="#" class="opc-main-bg a3" data-filter=".media1">MEDIA
+									PLANNING</a></li>
+						</ul>
+						<img class="logop" src="assets/images/logoP.png">
+					</div>
+				</div>
 			</div>
-			<div class="noto content-right1 col-md-9">
+			<div class="noto content-right1 col-md-8">
 				<div class="iso-box-wrapper">
 					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
@@ -112,7 +114,7 @@
 						</div>
 						</a>
 					</div>
-<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p03.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -133,7 +135,8 @@
 						</div>
 						</a>
 					</div>
-				<div class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p01.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -152,7 +155,9 @@
 								</div>
 						</div>
 						</a>
-					</div><div class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					</div>
+					<div
+						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p01.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -171,7 +176,9 @@
 								</div>
 						</div>
 						</a>
-					</div><div class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					</div>
+					<div
+						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p01.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -190,7 +197,9 @@
 								</div>
 						</div>
 						</a>
-					</div><div class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					</div>
+					<div
+						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p01.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -211,27 +220,9 @@
 						</a>
 					</div>
 
-					
-					<div class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>Bestian Hospital Website</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
 
-								</div>
-						</div>
-						</a>
-					</div><div class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p03.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -251,7 +242,29 @@
 						</div>
 						</a>
 					</div>
-					<div class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+						<div class="yougohome">
+							<a href="assets/images/p03.png"><div class="iheader">
+									<img src="assets/images/iheader.png">
+									<h2>
+										<strong>Development</strong>
+									</h2>
+									<div class="subc">
+										<h2>Bestian Hospital Website</h2>
+									</div>
+								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
+								<div class="decription-wrap">
+									<div class="image-bg">
+										<p class="desc">UX Programming</p>
+									</div>
+
+								</div>
+						</div>
+						</a>
+					</div>
+					<div
+						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p04.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -273,7 +286,8 @@
 						</div>
 						</a>
 					</div>
-					<div class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p01.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -293,26 +307,8 @@
 						</div>
 						</a>
 					</div>
-					<div class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p02.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Contemporary Korean Studies</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p02.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div><div class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p02.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -332,7 +328,29 @@
 						</div>
 						</a>
 					</div>
-					<div class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+						<div class="yougohome">
+							<a href="assets/images/p02.png"><div class="iheader">
+									<img src="assets/images/iheader.png">
+									<h2>
+										<strong>Editorial</strong>
+									</h2>
+									<div class="subc">
+										<h2>Contemporary Korean Studies</h2>
+									</div>
+								</div> <img alt="image" src="assets/images/p02.png" class="trueimage">
+								<div class="decription-wrap">
+									<div class="image-bg">
+										<p class="desc">UX Programming</p>
+									</div>
+
+								</div>
+						</div>
+						</a>
+					</div>
+					<div
+						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p03.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -353,7 +371,8 @@
 						</a>
 					</div>
 
-					<div class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
+					<div
+						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
 						<div class="yougohome">
 							<a href="assets/images/p04.png"><div class="iheader">
 									<img src="assets/images/iheader.png">
@@ -373,7 +392,7 @@
 						</div>
 						</a>
 					</div>
-					
+
 
 
 				</div>

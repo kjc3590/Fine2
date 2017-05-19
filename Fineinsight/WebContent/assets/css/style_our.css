@@ -179,7 +179,7 @@ canvas {
 	z-index: 0;
 }
 
-/* �쉪吏�李쏙옙沅쀭걚�쉨吏��쉪吏��쉨�샄�쉨夷덊쉪吏ъ갹占쎄텢�씥�쉯占쎌뫂爰쒌긿沅곌콠�꽓沅쀭샄 CSS */
+/* ï¿½ì‰ªï§žï¿½ï§¡ì™ì˜™æ²…ì€­ê±šï¿½ì‰¨ï§žï¿½ï¿½ì‰ªï§žï¿½ï¿½ì‰¨ï¿½ìƒ„ï¿½ì‰¨å¤·ëŠì‰ªï§žÑŠê°¹å ìŽ„í…¢ï¿½ì”¥ï¿½ì‰¯å ìŽŒë«‚çˆ°ì’Œê¸¿æ²…ê³Œì½ ï¿½ê½“æ²…ì€­ìƒ„ CSS */
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */
@@ -1467,4 +1467,10 @@ img {
 
 .no-top {
 	margin-top: -33px;
+}
+.fix {
+    position: fixed;
+    width: 23%;
+    height : 100%;
+    text-align: right;
 }

@@ -134,7 +134,7 @@
 		margin-top: 50px;
 	}
 
-	/* 종찬 */
+	/* ì¢…ì°¬ */
 	.hero-about {
 		width: 280px;
 		margin-left: 30px;
@@ -281,11 +281,13 @@
 	}
 	
 	.title-small {
-	position:fixed;
+	/* position:fixed; */
+	/* display: inline-block; */
 	}
 	
 	.content-right .filter-wrapper {
-		position:fixed;
+		/* position:fixed; */
+		/* display: inline-block; */
 	}
 	
 }
@@ -351,7 +353,8 @@
 
 @media screen and (min-width: 1200px) {
 	.content-right {
-		padding-top:166px;
+		padding-top: 66px;
+		float: right;
 	}
 	/* .content-right1 {
 		padding-right: 58px;
