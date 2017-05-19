@@ -1,22 +1,11 @@
 @media screen and (max-width: 476px) {
+
 	.description h1:after {
-		bottom: 120px;
+		bottom:120px;
 	}
-}
+	}
 
 @media screen and (max-width: 480px) {
-	.portfolio-image .static h1 {
-		margin: 0;
-		float: left;
-	}
-	.side-content {
-		font-size: 13px;
-	}
-	.portfolio-image nav {
-		text-align: right;
-		float: right;
-	}
-
 	/*----- layout ----*/
 	.grey-bg, .white-bg {
 		padding: 40px 0;
@@ -181,212 +170,13 @@
 	}
 }
 
-@media (min-width: 480px) {
-  /* Layout
-	------------------------- */
-  .whole,
-  .half,
-  .third,
-  .fourth,
-  .twothird,
-  .videoLayout,
-  .textBlock,
-  .extra-content,
-  .recipe,
-  .whole-content-area {
-    float: left;
-    *zoom: 1;
-    padding: 15px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  .whole:before,
-  .half:before,
-  .third:before,
-  .fourth:before,
-  .twothird:before,
-  .videoLayout:before,
-  .textBlock:before,
-  .extra-content:before,
-  .recipe:before,
-  .whole-content-area:before,
-  .whole:after,
-  .half:after,
-  .third:after,
-  .fourth:after,
-  .twothird:after,
-  .videoLayout:after,
-  .textBlock:after,
-  .extra-content:after,
-  .recipe:after,
-  .whole-content-area:after {
-    content: " ";
-    /* 1 */
-    display: table;
-    /* 2 */
-  }
-  .whole:after,
-  .half:after,
-  .third:after,
-  .fourth:after,
-  .twothird:after,
-  .videoLayout:after,
-  .textBlock:after,
-  .extra-content:after,
-  .recipe:after,
-  .whole-content-area:after {
-    clear: both;
-  }
-  .whole {
-    width: 100%;
-  }
-  .whole-content-area {
-    width: 100%;
-  }
-  .half {
-    width: 50%;
-  }
-  .recipe {
-    width: 100%;
-  }
-  .third {
-    width: 50%;
-  }
-  .fourth {
-    width: 50%;
-  }
-  .twothird {
-    width: 50%;
-  }
-  .videoLayout {
-    width: 100%;
-  }
-  .extra-content {
-    width: 100%;
-  }
-  .full-layout {
-    padding: 15px;
-  }
-  .side-layout .third {
-    width: 50%;
-  }
-  .side-layout .third:first-child {
-    width: 100%;
-  }
-  /* Site Header
-	------------------------- */
-  .portfolio-image #standard,
-  .portfolio-image .static {
-    background-color: transparent;
-  }
-  .portfolio-image #standard h1,
-  .portfolio-image .static h1 {
-    margin: 0;
-    float: left;
-  }
-  .portfolio-image #standard.fullscreen-overlay {
-    background-color: transparent;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-  .portfolio-image #standard.fullscreen-overlay nav a {
-    color: #FFF;
-  }
-  .portfolio-image #standard.fullscreen-overlay nav a.active {
-    color: #FFF;
-    color: rgba(255, 255, 255, 0.7);
-  }
-  .portfolio-image #standard.fullscreen-overlay nav a:hover {
-    color: #FFF;
-  }
-  .portfolio-image #standard.fullscreen-overlay h1 a {
-    background-image: url(logo-white-isolated1x.png);
-  }
-  .portfolio-image #standard.fullscreen-overlay.logodark h1 a {
-    background-image: url(logo-dark-isolated1x.png);
-  }
-  .portfolio-image #standard.fullscreen-overlay.navdark nav a {
-    color: #000;
-  }
-  .portfolio-image #standard.fullscreen-overlay.navdark nav a.active {
-    color: #000;
-    color: rgba(0, 0, 0, 0.7);
-  }
-  /* Article Header
-	------------------------- */
-  article header h1 {
-    font-size: 40px;
-  }
-  /* Navigation
-	------------------------- */
-  .portfolio-image #standard nav,
-  .portfolio-image .static nav {
-    text-align: right;
-    float: right;
-  }
-  .portfolio-image #standard nav a,
-  .portfolio-image .static nav a {
-    font-size: 14px;
-    padding: 6px;
-  }
-  /* Type Styles
-	-------------------------- */
-  .large-text {
-    font-size: 20px;
-  }
-  .whole h2,
-  .half h2,
-  .third h2,
-  .fourth h2,
-  .twothird h2,
-  .videoLayout h2,
-  .whole-content-area h2 {
-    font-size: 32px;
-  }
-  article.page .full-layout h1 {
-    font-size: 48px;
-  }
-  /* About Page
-	---------------------------- */
-  #about-video .third,
-  #about-video .twothird {
-    width: 100%;
-  }
-  .profiles div.third:nth-child(2n-1) {
-    clear: left;
-  }
-  /* Side Layout
-	------------------------- */
-  .side-content {
-    font-size: 13px;
-  }
-  .side-content .text-block h2 {
-    font-size: 24px;
-  }
-  /* Full Layout
-	------------------------- */
-  .full-layout .side-layout figure {
-    padding: 0;
-  }
-}
-@media (min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi) {
-  header#standard.fullscreen-overlay h1 a {
-    background-image: url(logo-white-isolated.png);
-  }
-}
-@media (min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi) {
-  header#standard.fullscreen-overlay.logodark h1 a {
-    background-image: url(logo-dark-isolated.png);
-  }
-}
 
 @media screen and (min-width: 721px) and (max-width:725px) {
-	.description h1:after {
-		bottom: 140px;
+.description h1:after {
+		bottom:140px;
 	}
 }
+
 
 @media screen and (max-width: 768px) {
 	/*------ header -----*/
@@ -441,6 +231,7 @@
 	.wrap-about	.head-quote {
 		padding-top: 10%;
 	}
+	
 	.text-grey {
 		margin-bottom: 45px;
 	}
@@ -465,77 +256,6 @@
 	}
 }
 
-@media screen and (min-width: 769px) {
-	.side-content {
-		float: left;
-		width: 260px;
-	}
-	.side-layout {
-		width: 100%;
-		float: right;
-		position: relative;
-		top: -15px;
-		right: -15px;
-		max-width: -webkit-calc(100% - 260px);
-		max-width: calc(100% - 260px);
-	}
-	.side-layout .half {
-		width: 100%;
-	}
-	.side-layout .third {
-		width: 50%;
-	}
-	.side-layout .third:first-child {
-		width: 100%;
-	}
-	.side-layout .fourth {
-		width: 50%;
-	}
-	.side-layout .twothird {
-		width: 50%;
-	}
-	.side-layout .videoLayout {
-		width: 100%;
-	}
-	.side-content {
-		float: left;
-		width: 260px;
-	}
-	body>.side-content {
-		position: relative;
-		top: -15px;
-	}
-	.side-content .text-block {
-		width: 200px;
-	}
-	
-	.portfolio-image .static {
-		position:fixed;
-		top:0;
-		height:100%;
-	}
-	.portfolio-image .static h1 a {
-		background: transparent url(../images/logoP.png) no-repeat 0 0;
-		background-size: 200px 78px;
-		width: 200px;
-		height: 78px;
-		position: absolute;
-		bottom: 30px;
-		right: 30px;
-	}
-	.portfolio-image .static nav a {
-		text-align: right;
-		width: 100%;
-		display: block;
-		border-left: none;
-		text-transform: uppercase;
-		font-size: 24px;
-		font-weight: 100;
-		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham-ExtraLight;
-		font-weight: 200;
-		font-style: normal;
-	}
-}
 
 @media screen and (max-width: 991px) {
 	/* 
@@ -543,76 +263,44 @@
 		margin-top: 220px;
 	} */
 	.description h1:after {
-		margin-left: -1rem;
+		margin-left:-1rem;
 	}
+	
 }
 
 @media screen and (min-width: 992px) {
 	.content-right {
-		padding-right: 0;
+		padding-right:0;
 	}
 	.content-right1 {
-		padding-left: 0;
-		padding-right: 53px;
+		padding-left:0;
+		padding-right:53px;
 	}
-	/* .portfolio-image {
-		display: flex;
-	} */
+	.portfolio-image {
+		display:flex;
+	}
+	
 	.title-small {
-		position: fixed;
+	position:fixed;
 	}
+	
 	.content-right .filter-wrapper {
-		position: fixed;
+		position:fixed;
 	}
+	
 }
 
 @media screen and (min-width:992px) and (max-width:1399px) {
 	.description h1:after {
-		margin-left: -1.5rem;
+		margin-left:-1.5rem;
 	}
+	
 }
+
 
 @media screen and (min-width:992px) and (max-width:1545px) {
 	.igrid .iheader .subc {
 		height: 43px;
-	}
-}
-
-@media screen and (min-width: 1140px) {
-	/* Side Layout
-	------------------------- */
-	.side-content {
-		width: 100%;
-		max-width: -webkit-calc(50% - 620px/ 2);
-		max-width: calc(50% - 620px/ 2);
-	}
-	.side-layout {
-		max-width: -webkit-calc(50% + 620px/ 2);
-		max-width: calc(50% + 620px/ 2);
-	}
-	.side-layout .fourth {
-		width: 25%;
-	}
-	.side-layout .extra-content {
-		width: 50%;
-	}
-	.side-layout .recipe {
-		width: 50%;
-	}
-	/* Full Layout
-	------------------------- */
-	.full-layout .side-content {
-		padding-right: 30px;
-		width: 100%;
-		max-width: -webkit-calc(50% - 620px/ 2);
-		max-width: calc(50% - 620px/ 2);
-	}
-	.full-layout .side-layout {
-		max-width: -webkit-calc(50% + 620px/ 2);
-		max-width: calc(50% + 620px/ 2);
-	}
-	.portfolio-image .static nav a {
-		font-size: 32px;
 	}
 }
 
@@ -630,6 +318,7 @@
 		width: 100%;
 		display: flex;
 		z-index: 1;
+		
 	}
 	.menusuit .menubutton {
 		top: 17%;
@@ -660,19 +349,9 @@
 	}
 }
 
-
-
-@media screen and (min-width: 1140px) {
-
-  .portfolio-image .static {
-    position: fixed;
-    top: 0;
-  }
-}
-
 @media screen and (min-width: 1200px) {
 	.content-right {
-		padding-top: 166px;
+		padding-top:166px;
 	}
 	/* .content-right1 {
 		padding-right: 58px;
@@ -682,22 +361,13 @@
 	}
 }
 
-@media screen and (min-width: 1240px) {
-	.portfolio-image .static h1 a {
-		background-size: 250px 98px;
-		width: 250px;
-		height: 98px;
+/* @media screen and (max-width: 1024px) {
+	.section-title-area-4 p {
+		width: 100%;
+		text-align: justify;
 	}
 }
-
-*
-/
-
-
-
-
-
-
+ */
 @media screen and (min-width: 1321px) {
 	.col-xs-offset-2 {
 		margin-left: 0;
