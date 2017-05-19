@@ -34,7 +34,7 @@ companyList = dao.CompanyList();
    <div class="container">
 
       <div class="card">
-         <%@ include file="/include/header2.jsp"%>
+         <%@ include file="/include/header.jsp"%>
          <div class="card-header">
             <h3 style="text-align: center;">会员信息修改</h3>
          </div>
@@ -59,7 +59,7 @@ companyList = dao.CompanyList();
             </div>
          </div>
       </div>
-      <%@ include file="/include/footer2.jsp"%>
+      <%@ include file="/include/footer.jsp"%>
    </div>
    </section>
 <!--    <script src="http://dmaps.daum.net/map_js_init/postcode.v2.js"></script>
