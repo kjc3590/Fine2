@@ -178,7 +178,7 @@ canvas {
 	vertical-align: bottom;
 }
 
-/* 횄짭창�궗큄횂짭횄짭횂혶횂쨈횄짬창�궗흹횇�쑦꺜ッ궰걘™궗혶 CSS */
+/* íš„ì§­ì°½ï¿½ê¶—í„íš‚ì§­íš„ì§­íš‚í˜¶íš‚ì¨ˆíš„ì§¬ì°½ï¿½ê¶—í¹íš‡ï¿½ì‘¦êºœãƒƒê¶°ê±˜â„¢ê¶—í˜¶ CSS */
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */
@@ -221,6 +221,7 @@ canvas {
 	/* border-left: 2px solid black; */
 	float: right;
 	padding-right: 35px;
+	color: black;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -710,7 +711,7 @@ ul.portfolio-image li .desc {
 	top: 50%;
 	color:white;
 	padding: 0px 0px;
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(255, 255, 255, 0.85);
 	border-radius: 5px;
 	/* outline: 4px double #FFFFFF; */
 	/* outline-offset: 8px; */
