@@ -36,7 +36,6 @@
 		<div class="portfolio-image" id="pv">
 			<div class="content-right col-md-4">
 				<div class="fix">
-					<div class="inner">
 						<ul class="filter-wrapper">
 							<li><a href="#" class="an" data-filter="*"
 								class="opc-main-bg">ALL WORKS</a></li>
@@ -50,7 +49,6 @@
 									PLANNING</a></li>
 						</ul>
 						<img class="logop" src="assets/images/logoP.png">
-					</div>
 				</div>
 			</div>
 			<div class="noto content-right1 col-md-8">
@@ -392,26 +390,11 @@
 						</div>
 						</a>
 					</div>
-
-
-
 				</div>
 				<!--/.PORTFOLIO IMAGE END-->
 			</div>
 		</div>
-
-
-
-
-
 	</div>
-
-
-
-
-
-
-
 
 	<script src="assets/js/jquery-3.1.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
