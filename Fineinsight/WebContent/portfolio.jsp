@@ -15,9 +15,12 @@
 <link href="assets/css/newp.css" rel="styleseet">
 <link href="assets/css/style_our.css" rel="stylesheet">
 <link href="assets/css/responsive_portfolio.css" rel="stylesheet">
+<!-- 추가 -->
+<link rel="stylesheet" href="assets/css/nivo-lightbox.css">
+<link rel="stylesheet" href="assets/css/nivo_themes/default/default.css">
 
 </head>
-<body style="background: #d0d0d0;">
+<body style="background: white;">
 	<div id="preloader">
 		<div id="status">
 			<img alt="logo" src="assets/images/fine-logo.png">
@@ -25,8 +28,8 @@
 	</div>
 	<!--/.PRELOADER END-->
 
-
 	<%@ include file="/include/sidebar.jsp"%>
+
 	<div class="content-wrap" id="content-wrap">
 
 
@@ -34,377 +37,126 @@
 
 		<!--PORTFOLIO IMAGE-->
 		<div class="portfolio-image" id="pv">
-			<div class="content-right col-md-4">
-				<div class="fix">
-						<ul class="filter-wrapper">
-							<li><a href="#" class="an" data-filter="*"
-								class="opc-main-bg">ALL WORKS</a></li>
+			<div class="content-right col-md-4 col-xs-12">
+			
+				<div class="fixedmenu">
+				<div class="portfolio-logo">
+						<h1>
+							<a></a>
+						</h1>
+					</div>
+					<ul class="filter-wrapper">
+						
+							<li><a href="#" class="opc-main-bg an" data-filter="*">ALL
+									WORKS</a></li>
 							<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
 									DESIGN</a></li>
+					
+					
 							<li><a href="#" class="opc-main-bg a1" data-filter=".classy">ClASSY
 									DESIGN</a></li>
 							<li><a href="#" class="opc-main-bg a2"
 								data-filter=".develope">DEVELOPEMENT</a></li>
 							<li><a href="#" class="opc-main-bg a3" data-filter=".media1">MEDIA
 									PLANNING</a></li>
-						</ul>
-						<img class="logop" src="assets/images/logoP.png">
+						
+						
+
+					</ul>
+					
 				</div>
+
+
 			</div>
-			<div class="noto content-right1 col-md-8">
+			<div class="noto content-right1 col-md-8 col-xs-12" id="portfolio">
 				<div class="iso-box-wrapper">
-					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>HIS NABi</strong>
-									</h2>
-									<div class="subc">
-										<h2></h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
+				
+					<div class="uiux element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+						<a href="assets/images/np01.jpg" data-lightbox-gallery="portfolio-gallery">
+							<img alt="image" src="assets/images/np01.jpg" class="trueimage">
+							<div class="decription-wrap">
+								<div class="image-bg">
+									<p class="desc">UX Programming</p>
+									<p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-						</div>
+							</div> 
 						</a>
 					</div>
-					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p02.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>HIS Lime</strong>
-									</h2>
-									<div class="subc">
-										<h2></h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p02.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
+					
+					<div class="uiux element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+						<a href="assets/images/np02.jpg" data-lightbox-gallery="portfolio-gallery"> 
+							<img alt="image" src="assets/images/np02.jpg" class="trueimage">
+							<div class="decription-wrap">
+								<div class="image-bg">
+									<p class="desc">UX Programming</p>
+									<p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-						</div>
-						</a>
-					</div>
-					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Information</strong>
-									</h2>
-									<div class="subc">
-										<h2>
-											Seoul Jung-gu Office<br> History Exhibition
-										</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">leaflet</p>
-									</div>
-								</div>
-						</div>
-						</a>
-					</div>
-					<div class="uiux element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Information</strong>
-									</h2>
-									<div class="subc">
-										<h2>
-											Seoul Jung-gu Office<br> History Exhibition
-										</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">leaflet</p>
-									</div>
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>LIME OCS</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
 
-								</div>
-						</div>
+							</div>
 						</a>
 					</div>
-					<div
-						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>LIME OCS</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
+					<div class="uiux element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+						<a href="assets/images/np03.jpg" data-lightbox-gallery="portfolio-gallery2"> 
+							<img alt="image" src="assets/images/np03.jpg" class="trueimage">
+							<div class="decription-wrap">
+								<div class="image-bg">
+									<p class="desc">UX Programming</p>
+									<p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-						</div>
+
+							</div>
 						</a>
 					</div>
-					<div
-						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>LIME OCS</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
+					<div class="uiux element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+						<a href="assets/images/np04.jpg" data-lightbox-gallery="portfolio-gallery2"> 
+							<img alt="image" src="assets/images/np04.jpg" class="trueimage">
+							<div class="decription-wrap">
+								<div class="image-bg">
+									<p class="descT">leaflet</p>
+									<p class="descT2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-						</div>
+
+							</div>
 						</a>
 					</div>
-					<div
-						class="classy element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>LIME OCS</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
+					<div class="uiux element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+						<a href="assets/images/np05.jpg" data-lightbox-gallery="portfolio-gallery2"> 
+							<img alt="image" src="assets/images/np05.jpg" class="trueimage">
+							<div class="decription-wrap">
+								<div class="image-bg">
+									<p class="desc">leaflet</p>
+									<p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-						</div>
+							</div>
 						</a>
 					</div>
 
-
-					<div
-						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>Bestian Hospital Website</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>Bestian Hospital Website</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p04.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Development</strong>
-									</h2>
-									<div class="subc">
-										<h2>
-											Ianbest Official<br> Website
-										</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p04.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="develope element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p01.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Bestian Hospital Brochure</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p01.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p02.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Contemporary Korean Studies</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p02.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p02.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Contemporary Korean Studies</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p02.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-					<div
-						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p03.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Bestian Center Brochure</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p03.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
-
-					<div
-						class="media1 element igrid iso-box col-lg-3 col-md-4 col-xs-6">
-						<div class="yougohome">
-							<a href="assets/images/p04.png"><div class="iheader">
-									<img src="assets/images/iheader.png">
-									<h2>
-										<strong>Editorial</strong>
-									</h2>
-									<div class="subc">
-										<h2>Samsung Memento Design</h2>
-									</div>
-								</div> <img alt="image" src="assets/images/p04.png" class="trueimage">
-								<div class="decription-wrap">
-									<div class="image-bg">
-										<p class="desc">UX Programming</p>
-									</div>
-
-								</div>
-						</div>
-						</a>
-					</div>
 				</div>
 				<!--/.PORTFOLIO IMAGE END-->
 			</div>
 		</div>
+
+
+
+
+
 	</div>
 
-	<script src="assets/js/jquery-3.1.1.min.js"></script>
+
+
+
+
+
+
+
+	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/sidebar_ourp.js"></script>
-	<script src="assets/js/isotope.js"></script>
-	<!-- <script src="assets/js/sorting.js"></script> -->
-	<script src="assets/js/imagesloaded.min.js"></script>
-	<script src="assets/js/jquery.magnific-popup.min.js"
-		type="text/javascript"></script>
 	<script src="assets/js/scrollreveal.min.js"></script>
+	<!-- 추가 -->
+	<script src="assets/js/isotope.js"></script>
+	<script src="assets/js/imagesloaded.min.js"></script>
+	<script src="assets/js/nivo-lightbox.min.js"></script>
 	<script src="assets/js/custom_ourp.js"></script>
 
 

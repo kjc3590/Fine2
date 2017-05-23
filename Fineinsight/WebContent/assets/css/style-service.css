@@ -3,7 +3,7 @@
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */
-	position: fixed; /* Stay in place */
+	position: absolute; /* Stay in place */
 	z-index: 3; /* Stay on top */
 	top: 0;
 	left: 0;
@@ -23,7 +23,7 @@
 	display: block;
 	line-height: 39px;
 	letter-spacing: 2.5px;
-	transition: 0.3s;
+	transition: 0.5s;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -73,9 +73,9 @@
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
-	position: absolute;
-	top: 50%;
-	right: 0px;
+	position: fixed;
+	top: 51.5%;
+	left:115px;
 	font-size: 30px;
 	margin-left: 80px;
 	color: #cacaca;

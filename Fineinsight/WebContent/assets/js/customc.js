@@ -13,6 +13,7 @@ jQuery(window).on('load', function(){
 			/*
 			 document.getElementById("mainban").style.marginLeft = "60px";*/
 	 }
+	   $('.sidenav .closebtn').css('opacity','0');
 	   
 });
 

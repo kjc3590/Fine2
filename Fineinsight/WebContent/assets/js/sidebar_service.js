@@ -3,12 +3,14 @@ function openNav() {
 	if ($(window).width() > 1199){
 	}
 
+	document.body.style.position = "fixed";
 	document.getElementById("menusuit1").style.opacity = "0";
 	document.getElementById("nodap").style.marginLeft = "280px";
 
 	document.getElementById("mySidenav").style.width = "280px";http://localhost:8080/huhu313/portfolio.jsp
 
 	document.getElementById("mySidenav").style.background = "transparent";
+	  $('.sidenav .closebtn').css('opacity','1');
 	document.body.style.background = "rgba(13, 19, 22, 1)";
 
 
@@ -29,8 +31,11 @@ function closeNav() {
 
 	}
 
+	
+	document.body.style.position = "inherit";
 	document.getElementById("menusuit1").style.opacity = "1";
 
+	  $('.sidenav .closebtn').css('opacity','0');
 	document.getElementById("nodap").style.marginLeft = "0";
 	document.getElementById("mySidenav").style.width = "0";
 

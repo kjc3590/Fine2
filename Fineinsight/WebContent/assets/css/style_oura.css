@@ -191,7 +191,7 @@ canvas {
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */
-	position: fixed; /* Stay in place */
+	position: absolute; /* Stay in place */
 	z-index: 3; /* Stay on top */
 	top: 0;
 	left: 0;
@@ -279,9 +279,9 @@ canvas {
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
-	position: absolute;
-	top: 50%;
-	right: 0px;
+	position: fixed;
+	top: 51.5%;
+	left:115px;
 	font-size: 30px;
 	margin-left: 80px;
 	color: #cacaca;

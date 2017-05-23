@@ -42,9 +42,11 @@
 		</div>
 	</div>
 <script src="assets/js/jquery-3.1.1.min.js"></script>
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
+<script
+	src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"
+	type="text/javascript"></script>
 <script src="assets/js/sidebar_index.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/typed.js"></script>

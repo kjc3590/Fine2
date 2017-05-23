@@ -8,6 +8,7 @@ function openNav() {
 			 document.getElementById("mainban").style.marginLeft = "280px";
 			 document.getElementById("menusuit1").style.opacity = "0";
 	}
+	document.body.style.position = "fixed";
 	
     document.getElementById("mySidenav").style.width = "280px";
    
@@ -35,6 +36,7 @@ function closeNav() {
  }else{
 	 document.getElementById("mainban").style.marginLeft = "0";
  }
+	document.body.style.position = "inherit";
     document.body.style.background ="url(assets/images/servicemain.jpg) right center no-repeat fixed";
     document.getElementById("mySidenav").style.width = "0";
     

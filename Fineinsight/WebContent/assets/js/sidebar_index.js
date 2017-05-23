@@ -5,11 +5,12 @@
 
 function openNav() {
 		
-			 document.getElementById("mainban").style.marginLeft = "250px";
+			 document.getElementById("mainban").style.marginLeft = "280px";
 	
-    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("mySidenav").style.width = "280px";
    
     document.body.style.backgroundColor = "transparent";
+    $('.sidenav .closebtn').css('opacity','1');
     document.getElementById("mainban").style.opacity = "0.35";
     document.getElementById("menusuit1").style.background = "transparent";
   
@@ -27,6 +28,7 @@ function closeNav() {
 	 document.getElementById("mainban").style.marginLeft = "0";
 	 document.getElementById("menusuit1").style.background = "white";
  }
+	$('.sidenav .closebtn').css('opacity','0');
     document.getElementById("mySidenav").style.width = "0";
     
     document.getElementById("mainban").style.opacity = "1.0";

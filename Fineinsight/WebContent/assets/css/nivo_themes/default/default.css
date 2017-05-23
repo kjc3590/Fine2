@@ -23,8 +23,6 @@
 	opacity: 0.5;
 }
 .nivo-lightbox-theme-default .nivo-lightbox-nav:hover { 
-	opacity: 1; 
-	/* background-color: rgba(0,0,0,0.5); */
 }
 .nivo-lightbox-theme-default .nivo-lightbox-prev { 
 	background-image: url(prev.png); 

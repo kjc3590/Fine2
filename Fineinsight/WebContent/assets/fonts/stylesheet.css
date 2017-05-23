@@ -142,3 +142,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
+@font-face {
+  font-family: 'Gotharm';
+
+  src: url('../fonts/GOTHAM-MEDIUM.TTF');
+}
+
+
+
+
+@font-face {
+  font-family: 'Gotharm';
+
+  src: url('../fonts/GOTHAM-MEDIUM.TTF');
+}
+
+
+@font-face {
+  font-family: 'Abel';
+
+  src: url('../fonts/Abel-Regular.ttf');
+}
+
+
+
+@font-face {
+  font-family: 'Crimson';
+
+  src: url('../fonts/CrimsonText-Regular.ttf');
+}
+
+
+@font-face {
+  font-family: 'RopaSans';
+
+  src: url('../fonts/RopaSans-Regular.ttf');
+}
+
+
+@font-face {
+  font-family: 'RobotoSlab';
+
+  src: url('../fonts/RobotoSlab-Regular.ttf');
+}
+
+
+@font-face {
+  font-family: 'RobotoCondensed';
+
+  src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+
+@font-face {
+  font-family: 'NewsCycle';
+
+  src: url('../fonts/NewsCycle-Regular.ttf');
+}
+

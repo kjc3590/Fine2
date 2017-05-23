@@ -2,7 +2,9 @@ jQuery(window).on('load', function(){
 	  //preloader
     $("#status").fadeOut(); // will first fade out the loading animation
 	   $("#preloader").delay(800).fadeOut("slow"); // will fade out the white DIV that covers the website.
-		if ($(window).width() > 1320){
+	   $('.sidenav .closebtn').css('opacity','0');
+	   
+	   if ($(window).width() > 1320){
 			
 			/* document.getElementById("mainban").style.marginLeft = "60px";*/
 	 }
