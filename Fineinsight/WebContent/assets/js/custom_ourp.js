@@ -5,6 +5,8 @@ jQuery(window).on('load', function(){
 
 	$('.menusuit .menubutton').css('color','black');
 
+	   $('.sidenav .closebtn').css('opacity','0');
+	
 	if ($(window).width() > 1199){
 	}else {
 		$('.menusuit').css('background','white');
