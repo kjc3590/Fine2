@@ -3,7 +3,7 @@ function openNav() {
 	if ($(window).width() > 1199){
 	}
 
-	document.body.style.position = "fixed";
+	
 	document.getElementById("menusuit1").style.opacity = "0";
 	document.getElementById("nodap").style.marginLeft = "280px";
 
@@ -31,8 +31,6 @@ function closeNav() {
 
 	}
 
-	
-	document.body.style.position = "inherit";
 	document.getElementById("menusuit1").style.opacity = "1";
 
 	  $('.sidenav .closebtn').css('opacity','0');

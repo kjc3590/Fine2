@@ -38,54 +38,59 @@
 		<!--PORTFOLIO IMAGE-->
 		<div class="portfolio-image" id="pv">
 			<div class="content-right col-md-4 col-xs-12">
-			
+
 				<div class="fixedmenu">
-				<div class="portfolio-logo">
+					<div class="portfolio-logo">
 						<h1>
 							<a></a>
 						</h1>
 					</div>
 					<ul class="filter-wrapper">
-						
-							<li><a href="#" class="opc-main-bg an" data-filter="*">ALL
-									WORKS</a></li>
-							<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
-									DESIGN</a></li>
-					
-					
-							<li><a href="#" class="opc-main-bg a1" data-filter=".classy">ClASSY
-									DESIGN</a></li>
-							<li><a href="#" class="opc-main-bg a2"
-								data-filter=".develope">DEVELOPEMENT</a></li>
-							<li><a href="#" class="opc-main-bg a3" data-filter=".media1">MEDIA
-									PLANNING</a></li>
-						
-						
+
+						<li><a href="#" class="opc-main-bg an" data-filter="*">ALL
+								WORKS</a></li>
+						<li><a href="#" class="opc-main-bg a0" data-filter=".uiux">UI/UX
+								DESIGN</a></li>
+
+
+						<li><a href="#" class="opc-main-bg a1" data-filter=".classy">ClASSY
+								DESIGN</a></li>
+						<li><a href="#" class="opc-main-bg a2"
+							data-filter=".develope">DEVELOPEMENT</a></li>
+						<li><a href="#" class="opc-main-bg a3" data-filter=".media1">MEDIA
+								PLANNING</a></li>
+
+
 
 					</ul>
-					
+
 				</div>
 
 
 			</div>
 			<div class="noto content-right1 col-md-8 col-xs-12" id="portfolio">
 				<div class="iso-box-wrapper">
-				
-					<div class="uiux element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-						<a href="assets/images/np01.jpg" data-lightbox-gallery="portfolio-gallery">
-							<img alt="image" src="assets/images/np01.jpg" class="trueimage">
+
+					<div
+						class="uiux element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+						<a href="assets/images/np01.jpg"
+							data-lightbox-gallery="portfolio-gallery"> <img alt="image"
+							src="assets/images/np01.jpg" class="trueimage">
 							<div class="decription-wrap">
 								<div class="image-bg">
 									<p class="desc">UX Programming</p>
 									<p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
 								</div>
-							</div> 
+							</div>
 						</a>
 					</div>
-					
+
+
+
 					<div class="uiux element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-						<a href="assets/images/np02.jpg" data-lightbox-gallery="portfolio-gallery"> 
-							<img alt="image" src="assets/images/np02.jpg" class="trueimage">
+						<a href="assets/images/np02.jpg"
+							data-lightbox-gallery="portfolio-gallery"> <img alt="image"
+							src="assets/images/np02.jpg" class="trueimage">
 							<div class="decription-wrap">
 								<div class="image-bg">
 									<p class="desc">UX Programming</p>
@@ -96,8 +101,9 @@
 						</a>
 					</div>
 					<div class="uiux element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-						<a href="assets/images/np03.jpg" data-lightbox-gallery="portfolio-gallery2"> 
-							<img alt="image" src="assets/images/np03.jpg" class="trueimage">
+						<a href="assets/images/np03.jpg"
+							data-lightbox-gallery="portfolio-gallery2"> <img alt="image"
+							src="assets/images/np03.jpg" class="trueimage">
 							<div class="decription-wrap">
 								<div class="image-bg">
 									<p class="desc">UX Programming</p>
@@ -108,8 +114,9 @@
 						</a>
 					</div>
 					<div class="uiux element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-						<a href="assets/images/np04.jpg" data-lightbox-gallery="portfolio-gallery2"> 
-							<img alt="image" src="assets/images/np04.jpg" class="trueimage">
+						<a href="assets/images/np04.jpg"
+							data-lightbox-gallery="portfolio-gallery2"> <img alt="image"
+							src="assets/images/np04.jpg" class="trueimage">
 							<div class="decription-wrap">
 								<div class="image-bg">
 									<p class="descT">leaflet</p>
@@ -120,8 +127,9 @@
 						</a>
 					</div>
 					<div class="uiux element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-						<a href="assets/images/np05.jpg" data-lightbox-gallery="portfolio-gallery2"> 
-							<img alt="image" src="assets/images/np05.jpg" class="trueimage">
+						<a href="assets/images/np05.jpg"
+							data-lightbox-gallery="portfolio-gallery2"> <img alt="image"
+							src="assets/images/np05.jpg" class="trueimage">
 							<div class="decription-wrap">
 								<div class="image-bg">
 									<p class="desc">leaflet</p>
@@ -129,6 +137,13 @@
 								</div>
 							</div>
 						</a>
+					</div>
+
+
+					<!-- 히든플레이스 -->
+					<div hidden="hidden">
+						<a href="assets/images/np02.jpg"
+							data-lightbox-gallery="portfolio-gallery"></a>
 					</div>
 
 				</div>

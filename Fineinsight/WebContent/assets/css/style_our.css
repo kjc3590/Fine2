@@ -435,7 +435,7 @@ canvas {
 }
 
 .content-right li>a:focus {
-	border: 1.5px solid rgba(157, 157, 157, 0.88);
+	border: 1.5px solid rgba(0, 0, 0, 0.88);
 	content: "";
 	border-right-width: 28px;
 	height: 7px;
@@ -445,7 +445,7 @@ canvas {
 }
 
 .selected {
-	border: 1.5px solid rgba(157, 157, 157, 0.88);
+	border: 1.5px solid rgba(0, 0, 0, 0.88);
 	content: "";
 	border-right-width: 28px;
 	height: 7px;
@@ -463,8 +463,9 @@ canvas {
 .content-right .filter-wrapper li>a {
 	font-size: 3.2rem;
 	padding:4px 10px 4px 10px;
-	font-family: 'NewsCycle', sans-serif;
-	color: #9d9d9d;
+	font-family: 'Abel', sans-serif;
+	color: rgba(0, 0, 0, 0.88);
+	
 }
 
 .content-right .filter-wrapper {
