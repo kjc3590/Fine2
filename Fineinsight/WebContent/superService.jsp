@@ -29,22 +29,22 @@
                 <section id="photostack-1" class="photostack photostack-start">
                     <div>
                         <figure class="mun">
-                            <a href="portfolio.jsp" class="photostack-img"> <img src="assets/images/01x.png" alt="img01" /> </a>
+                            <a href="portfolio.jsp?wow=a0" class="photostack-img"> <img src="assets/images/01x.png" alt="img01" /> </a>
                             <figcaption>
                                 <h2 class="photostack-title">HIS SOLUTION</h2> </figcaption>
                         </figure>
                         <figure class="mun">
-                            <a href="portfolio.jsp?wow=a0" class="photostack-img"><img src="assets/images/02x.png" alt="img02" /></a>
+                            <a href="portfolio.jsp?wow=a1" class="photostack-img"><img src="assets/images/02x.png" alt="img02" /></a>
                             <figcaption>
                                 <h2 class="photostack-title">INTERGRATE SOLUTION</h2> </figcaption>
                         </figure>
                         <figure class="mun">
-                            <a href="portfolio.jsp?wow=a1" class="photostack-img"><img src="assets/images/03x.png" alt="img03" /></a>
+                            <a href="portfolio.jsp?wow=a2" class="photostack-img"><img src="assets/images/03x.png" alt="img03" /></a>
                             <figcaption>
                                 <h2 class="photostack-title">LEAFLET</h2> </figcaption>
                         </figure>
                         <figure class="mun">
-                            <a href="portfolio.jsp?wow=a2" class="photostack-img"><img src="assets/images/04x.png" alt="img04" /></a>
+                            <a href="portfolio.jsp?wow=a3" class="photostack-img"><img src="assets/images/04x.png" alt="img04" /></a>
                             <figcaption>
                                 <h2 class="photostack-title">INFOMATION</h2> </figcaption>
                         </figure>
