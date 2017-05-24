@@ -8,13 +8,11 @@
 <meta name="description" content="UIUX디자인,기업홈페이지제작,반응형홈페이지제작,모바일어플리케이션제작">
 <meta name="author" content="(주)파인인사이트">
 <meta content="width=device-width, initial-scale=1" name="viewport">
-
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 <link href="assets/css/style_index.css" rel="stylesheet" media="screen">
 <link href="assets/css/animate.css" rel="stylesheet">
 <link href="assets/css/responsive_index.css" rel="stylesheet">
 <link href="assets/css/new.css" rel="stylesheet">
-
 </head>
 <body>
 	<div id="preloader">
