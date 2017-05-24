@@ -48,7 +48,7 @@
                             <figcaption>
                                 <h2 class="photostack-title">INFOMATION</h2> </figcaption>
                         </figure>
-                        <figure class="mun">
+<!--                         <figure class="mun">
                             <a href="portfolio.jsp?wow=a3" class="photostack-img"><img src="assets/images/05x.png" alt="img05" /></a>
                             <figcaption>
                                 <h2 class="photostack-title">BESTIAN WEBSITE</h2> </figcaption>
@@ -57,7 +57,7 @@
                             <a href="portfolio.jsp" class="photostack-img"><img src="assets/images/06x.png" alt="img06" /></a>
                             <figcaption>
                                 <h2 class="photostack-title">HOSPITAL WEBSITE</h2> </figcaption>
-                        </figure>
+                        </figure> -->
                         <figure class="ahn" data-dummy>
                             <a href="#" class="photostack-img"><img src="assets/images/07x.png" alt="img07" /></a>
                             <figcaption>
