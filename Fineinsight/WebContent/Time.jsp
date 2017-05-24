@@ -42,7 +42,10 @@
 	}
 </script>
 
-<style>
+<style type="text/css">
+#particles-js {
+	background: radial-gradient(circle farthest-corner at 1099px 302px, rgb(111, 111, 111), rgb(0, 0, 0) 48%, rgb(12, 41, 72));
+}
 .time{
 	padding-bottom: 10px;
 	display: block;
@@ -50,7 +53,12 @@
 .hero-content img{
 	padding-bottom : 15px;
 }
-
+@media screen and (max-width: 480px) {
+	.hero-content{
+		height : auto;
+		font-size : 12px;
+	}
+}
 </style>
 </head>
 <body>
@@ -94,7 +102,7 @@
 <script src="assets/js/isotope.pkgd.min.js"></script>
 <script src="assets/js/scrollreveal.min.js"></script>
 <script src="hututu/particles.js"></script>
-<script src="assets/js/app.js"></script>
+<script src="assets/js/app4.js"></script>
 <script src="assets/js/custom.js"></script>
 
 
