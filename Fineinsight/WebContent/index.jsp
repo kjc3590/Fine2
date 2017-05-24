@@ -34,7 +34,6 @@
 						data-wow-duration="1.4s" data-wow-delay="1.4s"> <br> <span
 						class="typed"></span>
 				</div>
-
 			</div>
 			<div class="mouse-icon margin-20">
 				<div class="scroll"></div>
