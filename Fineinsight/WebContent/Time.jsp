@@ -13,7 +13,6 @@
 <link href="assets/css/animate.css" rel="stylesheet">
 <link href="assets/css/responsive_index.css" rel="stylesheet">
 <link href="assets/css/new.css" rel="stylesheet">
-
 <script>
 	function printTime() {
 		var now = new Date(); // 현재시간
