@@ -178,7 +178,7 @@ canvas {
 	z-index: 0;
 }
 
-/* �쉪吏�李쏙옙沅쀭걚�쉨吏��쉪吏��쉨�샄�쉨夷덊쉪吏ъ갹占쎄텢�씥�쉯占쎌뫂爰쒌긿沅곌콠�꽓沅쀭샄 CSS */
+/* 占쎌돦筌욑옙筌≪룞�삕亦낆��嫄싷옙�돣筌욑옙占쎌돦筌욑옙占쎌돣占쎌깂占쎌돣鸚룸뜇�돦筌왨딄갯�뜝�럡�뀬占쎌뵦占쎌돬�뜝�럩維귞댆�뭽湲욘쾮怨뚯퐷占쎄퐪亦낆���깂 CSS */
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */
@@ -848,6 +848,32 @@ img {
 	display: table-cell;
 	right: 0;
 	text-align: left;
+	color: #ebedfb;
+	font-size: 13px;
+	font-weight: 700;
+}
+
+.portfolio-image .igrid .descF {
+	position: absolute;
+	/* z-index: 1; */
+	top: 83%;
+	right: 1.74%;
+	display: table-cell;
+	
+	text-align: right;
+	color: #ebedfb;
+	font-size: 22px;
+	font-weight: 300;
+}
+
+.portfolio-image .igrid .descF2 {
+	position: absolute;
+	/* z-index: 1; */
+	top: 89.6%;
+	right: 1.5%;
+	display: table-cell;
+
+	text-align: right;
 	color: #ebedfb;
 	font-size: 13px;
 	font-weight: 700;
@@ -1555,3 +1581,4 @@ img {
 	margin: 0 auto 10px auto;
 	background-size: 80px 22px;
 }
+

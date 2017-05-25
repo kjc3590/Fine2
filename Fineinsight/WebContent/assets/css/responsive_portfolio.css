@@ -503,6 +503,17 @@
 		top:85.6%;
 		font-size:12px;
 		}
+		
+			.portfolio-image .igrid .descF {
+		top:65%;
+		font-size:13px;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:78.6%;
+		font-size:10px;
+		}
+		
   	}
    	@media screen and (min-width:375px) and (max-width:424px) {
   	
@@ -524,6 +535,16 @@
 		.portfolio-image .igrid .descT2 {
 		top:86.6%;
 		font-size:12px;
+		}
+		
+			.portfolio-image .igrid .descF {
+		top:73%;
+		font-size:14px;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:84.6%;
+		font-size:10px;
 		}
   	}
  
@@ -548,6 +569,16 @@
 		top:89.6%;
 		font-size:12px;
 		}
+		
+		.portfolio-image .igrid .descF {
+		top:69%;
+		font-size:15px;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:82.6%;
+		font-size:10px;
+		}
   	}
  
   	@media screen and (min-width:481px) and (max-width:599px) {
@@ -569,6 +600,16 @@
 		
 		.portfolio-image .igrid .descT2 {
 		top:69.6%;
+		font-size:10px;
+		}
+		
+			.portfolio-image .igrid .descF {
+		top:73%;
+		font-size:15px;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:84.6%;
 		font-size:10px;
 		}
   	}
@@ -593,6 +634,16 @@
 		top:77.6%;
 		font-size:11px;
 		}
+		
+		 	.portfolio-image .igrid .descF {
+		top:75%;
+		font-size:19px;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:87.6%;
+		font-size:12px;
+		}
    	
 } 
   
@@ -613,6 +664,14 @@
 		.portfolio-image .igrid .descT2 {
 		top:85.6%;
 		}
+		
+			.portfolio-image .igrid .descF {
+		top:78%;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:88.6%;
+		}
  	}
  
  	@media screen and (min-width:1200px) and (max-width:1400px) {
@@ -630,6 +689,14 @@
 		
 		.portfolio-image .igrid .descT2 {
 		top:87.6%;
+		}
+		
+			.portfolio-image .igrid .descF {
+		top:81%;
+		}
+		
+		.portfolio-image .igrid .descF2 {
+		top:90.6%;
 		}
 	}
  

@@ -67,11 +67,11 @@
                     <div class="noto content-right1 col-md-8 col-xs-12" id="portfolio">
                         <div class="iso-box-wrapper">
                             <div class="uiux element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/np01.jpg" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/np01.jpg" class="trueimage">
+                                <a href="assets/images/개촌보기.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/개촌보기3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">UX Programming</p>
-                                            <p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
+                                            <p class="descF">UX Programming</p>
+                                            <p class="descF2">#FEATURE STORY #NEW CONSTRUCTION</p>
                                         </div>
                                     </div>
                                 </a>
