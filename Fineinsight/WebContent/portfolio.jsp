@@ -53,10 +53,10 @@
 						</h1> </div>
                             <ul class="filter-wrapper">
                                 <li><a href="#" class="opc-main-bg an" data-filter="*">All Works</a></li>
-                                <li><a href="#" class="opc-main-bg a0" data-filter=".BD">Brand Design</a></li>
-                                <li><a href="#" class="opc-main-bg a1" data-filter=".HIS">HIS Development</a></li>
+                                <li><a href="#" class="opc-main-bg a0" data-filter=".ED">Editorial Design</a></li>
+                                <li><a href="#" class="opc-main-bg a1" data-filter=".HIS">HIS System</a></li>
                                 <li><a href="#" class="opc-main-bg a2" data-filter=".UIUX">UI/UX Design</a></li>
-                                <li><a href="#" class="opc-main-bg a3" data-filter=".SMP">Social Media Planning</a></li>
+                                <li><a href="#" class="opc-main-bg a3" data-filter=".MP">Media Planning</a></li>
                             </ul>
                         </div>
                     </div>
@@ -64,8 +64,8 @@
                     
                         <div class="iso-box-wrapper">
                         
-                            <div class="BD element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/bd/1800-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/bd/1800-1.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+                                <a href="assets/images/ED/1800-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descF">Brand Design</p>
@@ -75,8 +75,8 @@
                                 </a>
                             </div>
                             
-                            <div class="BD element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/bd/1200.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/bd/1200.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -86,8 +86,8 @@
                                 </a>
                             </div>
                             
-                            <div class="BD element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/bd/1200-02.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/bd/1200-02.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+                                <a href="assets/images/ED/1200-2.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -97,8 +97,8 @@
                                 </a>
                             </div>
                             
-                            <div class="BD element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/bd/600-2.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/bd/600-2.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/ED/600-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descT">leaflet</p>
@@ -108,8 +108,8 @@
                                 </a>
                             </div>
                             
-                            <div class="BD element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/bd/1200-3.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/bd/1200-3.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/ED/1200-3.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">leaflet</p>
@@ -119,8 +119,8 @@
                                 </a>
                             </div>
                             
-                            <div class="BD element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/bd/600-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/bd/600-1.png" class="trueimage">
+                            <div class="ED element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/ED/600-2.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descT">leaflet</p>
@@ -130,8 +130,19 @@
                                 </a>
                             </div>
                             
-                           <div class="SMP element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/smp/1800.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/smp/1800.png" class="trueimage">
+                            <div class="HIS element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/HIS/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">삼성 열정레시피</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="HIS element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+                                <a href="assets/images/HIS/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/HIS/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descF">Brand Design</p>
@@ -141,7 +152,51 @@
                                 </a>
                             </div>
                             
+                            <div class="HIS element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/HIS/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">삼성 열정레시피</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                        
                             <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/HIS/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/HIS/600-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-3.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/HIS/600-4.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-4.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/HIS/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
@@ -152,18 +207,41 @@
                                 </a>
                             </div>
                             
-                            <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/HIS/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-2.png" class="trueimage">
+                           <div class="MP element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+                                <a href="assets/images/MP/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
+                                            <p class="descF">Brand Design</p>
+                                            <p class="descF2">베스티안 부산병원 브로셔</p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-                            <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/HIS/600.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600.png" class="trueimage">
+                            
+                           <div class="MP element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+                                <a href="assets/images/MP/900-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/900-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="descF">Brand Design</p>
+                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="MP element igrid iso-box col-lg-6 col-md-6 col-xs-6">
+                                <a href="assets/images/MP/900-2.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/900-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="descF">Brand Design</p>
+                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/MP/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -173,8 +251,8 @@
                                 </a>
                             </div>
                             
-                            <div class="HIS element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/HIS/600-4.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-4.png" class="trueimage">
+                            <div class="MP element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/MP/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -183,6 +261,117 @@
                                     </div>
                                 </a>
                             </div>
+                            
+                            <div class="MP element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/MP/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">삼성 열정레시피</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/MP/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="UIUX element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+                                <a href="assets/images/UIUX/1800-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/UIUX/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                           <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/UIUX/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            
+                           <div class="UIUX element igrid iso-box col-lg-12 col-md-12 col-xs-12">
+                                <a href="assets/images/UIUX/1800-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/UIUX/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
+                           <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/UIUX/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-2.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                           <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
+                                <a href="assets/images/UIUX/600-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-3.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
+                            
+                           <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
+                                <a href="assets/images/UIUX/900-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/900-1.png" class="trueimage">
+                                    <div class="decription-wrap">
+                                        <div class="image-bg">
+                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
+
+                            
                             
                             <!-- 히든플레이스 -->
                             <div hidden="hidden">
