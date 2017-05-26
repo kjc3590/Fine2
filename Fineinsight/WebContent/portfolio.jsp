@@ -87,7 +87,7 @@
                             </div>
                             
                             <div class="ED element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/ED/1200-2.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
+                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -119,27 +119,11 @@
                                 </a>
                             </div>
                             
-                            <div class="ED element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/ED/600-2.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-2.png" class="trueimage">
-                                    <div class="decription-wrap">
-                                        <div class="image-bg">
-                                            <p class="descT">leaflet</p>
-                                            <p class="descT2">#FEATURE STORY #NEW CONSTRUCTION</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                       
                             
-                            <div class="HIS element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/HIS/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-1.png" class="trueimage">
-                                    <div class="decription-wrap">
-                                        <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            
+                            
+                         
                             
                            <div class="HIS element igrid iso-box col-lg-12 col-md-12 col-xs-12">
                                 <a href="assets/images/HIS/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/HIS/1800-1.png" class="trueimage">
@@ -153,7 +137,7 @@
                             </div>
                             
                             <div class="HIS element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/HIS/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-2.png" class="trueimage">
+                                <a href="assets/images/HIS/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
@@ -361,7 +345,7 @@
                             </div>                            
                             
                            <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/UIUX/900-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/900-1.png" class="trueimage">
+                                <a href="assets/images/UIUX/1200-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
