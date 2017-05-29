@@ -344,7 +344,6 @@
                             
                             <!-- 히든플레이스 -->
                             <div hidden="hidden">
-                                <a href="assets/images/np02.jpg" data-lightbox-gallery="portfolio-gallery"></a>
                             </div>
                         </div>
                         <!--/.PORTFOLIO IMAGE END-->
