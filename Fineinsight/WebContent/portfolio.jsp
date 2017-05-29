@@ -352,7 +352,7 @@
                 </div>
             </div>
             
-            <script src="assets/js/jquery-3.1.1.min.js"></script>
+            <script src="assets/js/jquery-1.9.1.min.js"></script>
             <script src="assets/js/bootstrap.min.js"></script>
             <script src="assets/js/sidebar_ourp.js"></script>
             <script src="assets/js/scrollreveal.min.js"></script>
