@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="assets/css/nivo-lightbox.css">
         <link rel="stylesheet" href="assets/css/nivo_themes/default/default.css">
         
-        <script src="assets/js/jquery-1.9.1.min.js"></script>
+      
         
         <script type="text/javascript">
             jQuery(window).on('load', function () {
@@ -366,6 +366,7 @@
                     </div>
                 </div>
             </div>
+              <script src="assets/js/jquery-3.1.1.min.js"></script>
             <script src="assets/js/bootstrap.min.js"></script>
             <script src="assets/js/sidebar_ourp.js"></script>
             <script src="assets/js/scrollreveal.min.js"></script>
