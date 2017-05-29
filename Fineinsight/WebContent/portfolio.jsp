@@ -18,21 +18,6 @@
         <link rel="stylesheet" href="assets/css/nivo-lightbox.css">
         <link rel="stylesheet" href="assets/css/nivo_themes/default/default.css">
         
-      
-        
-        <script type="text/javascript">
-            jQuery(window).on('load', function () {
-            	<%
-            		String wow = request.getParameter("wow");
-            		if(wow==null || wow.equals("")){
-            			wow = "an";
-            		}
-            	%>
-                $('.<%=wow%>').addClass("selected");
-                $('.<%=wow%>').trigger("click");
-                $('.<%=wow%>').trigger("focus");
-            });
-        </script>
     </head>
 
     <body style="background: white;">
@@ -102,7 +87,7 @@
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="descT">#Editiorial Design</p>
-                                            <p class="descT2"></p>
+                                            <p class="descT2">Making a happy school With culture. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -112,8 +97,8 @@
                                 <a href="assets/images/ED/1200-3.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-3.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">leaflet</p>
-                                            <p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
+                                            <p class="desc">#Editiorial Design</p>
+                                            <p class="desc2">Bestian Hospital Note</p>
                                         </div>
                                     </div>
                                 </a>
@@ -129,8 +114,8 @@
                                 <a href="assets/images/HIS/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/HIS/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="descF">Brand Design</p>
-                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                            <p class="descF">#HIS System</p>
+                                            <p class="descF2">Lime</p>
                                         </div>
                                     </div>
                                 </a>
@@ -140,8 +125,8 @@
                                 <a href="assets/images/HIS/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
+                                            <p class="desc">#HIS System</p>
+                                            <p class="desc2">Lime EMR</p>
                                         </div>
                                     </div>
                                 </a>
@@ -151,8 +136,8 @@
                                 <a href="assets/images/HIS/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#HIS System</p>
+                                            <p class="desc2">NABi</p>
                                         </div>
                                     </div>
                                 </a>
@@ -162,8 +147,8 @@
                                 <a href="assets/images/HIS/600-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#HIS System</p>
+                                            <p class="desc2">NABi</p>
                                         </div>
                                     </div>
                                 </a>
@@ -173,8 +158,8 @@
                                 <a href="assets/images/HIS/600-4.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-4.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#HIS System</p>
+                                            <p class="desc2">Lime</p>
                                         </div>
                                     </div>
                                 </a>
@@ -184,8 +169,8 @@
                                 <a href="assets/images/HIS/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#HIS System</p>
+                                            <p class="desc2">Lime</p>
                                         </div>
                                     </div>
                                 </a>
@@ -195,8 +180,8 @@
                                 <a href="assets/images/MP/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="descF">Brand Design</p>
-                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                            <p class="descF">#Social Media Planning</p>
+                                            <p class="descF2">Bestian FaceBook / Blog</p>
                                         </div>
                                     </div>
                                 </a>
@@ -206,8 +191,8 @@
                                 <a href="assets/images/MP/900-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/900-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="descF">Brand Design</p>
-                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                            <p class="descF">#Social Media Planning</p>
+                                            <p class="descF2">Campaign for attracting investment in GueongBuk</p>
                                         </div>
                                     </div>
                                 </a>
@@ -217,8 +202,8 @@
                                 <a href="assets/images/MP/900-2.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/900-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="descF">Brand Design</p>
-                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                            <p class="descF">#Social Media Planning</p>
+                                            <p class="descF2">Campaign for Sharing Life</p>
                                         </div>
                                     </div>
                                 </a>
@@ -228,8 +213,8 @@
                                 <a href="assets/images/MP/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#Social Media Planning</p>
+                                            <p class="desc2">Food Poisoning Prevention Campaign</p>
                                         </div>
                                     </div>
                                 </a>
@@ -239,8 +224,8 @@
                                 <a href="assets/images/MP/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
+                                            <p class="desc">#Social Media Planning</p>
+                                            <p class="desc2">Bestian FaceBook / Blog</p>
                                         </div>
                                     </div>
                                 </a>
@@ -250,8 +235,8 @@
                                 <a href="assets/images/MP/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
+                                            <p class="desc">#Social Media Planning</p>
+                                            <p class="desc2">KEPCO Promotion Campaign</p>
                                         </div>
                                     </div>
                                 </a>
@@ -261,8 +246,8 @@
                                 <a href="assets/images/MP/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">#Social Media Planning</p>
+                                            <p class="desc2">Ocean World</p>
                                         </div>
                                     </div>
                                 </a>
@@ -272,8 +257,8 @@
                                 <a href="assets/images/UIUX/1800-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Bestian Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -283,8 +268,8 @@
                                 <a href="assets/images/UIUX/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Bestian Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -293,8 +278,8 @@
                                 <a href="assets/images/UIUX/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">IanBest Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -305,8 +290,8 @@
                                 <a href="assets/images/UIUX/1800-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">IanBest Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -316,8 +301,8 @@
                                 <a href="assets/images/UIUX/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Fineinsight Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -326,8 +311,8 @@
                                 <a href="assets/images/UIUX/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Lime Maintenance Site</p>
                                         </div>
                                     </div>
                                 </a>
@@ -337,8 +322,8 @@
                                 <a href="assets/images/UIUX/600-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Bestian Official HomePage</p>
                                         </div>
                                     </div>
                                 </a>
@@ -348,8 +333,8 @@
                                 <a href="assets/images/UIUX/1200-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">Journal of Contemporary Korean Studies</p>
+                                            <p class="desc">UI/UX</p>
+                                            <p class="desc2">Skin care application</p>
                                         </div>
                                     </div>
                                 </a>
@@ -366,7 +351,8 @@
                     </div>
                 </div>
             </div>
-              <script src="assets/js/jquery-3.1.1.min.js"></script>
+            
+            <script src="assets/js/jquery-3.1.1.min.js"></script>
             <script src="assets/js/bootstrap.min.js"></script>
             <script src="assets/js/sidebar_ourp.js"></script>
             <script src="assets/js/scrollreveal.min.js"></script>
@@ -375,6 +361,20 @@
             <script src="assets/js/imagesloaded.min.js"></script>
             <script src="assets/js/nivo-lightbox.min.js"></script>
             <script src="assets/js/custom_ourp.js"></script>
+            
+         <script type="text/javascript">
+            jQuery(window).on('load', function () {
+            	<%
+            		String wow = request.getParameter("wow");
+            		if(wow==null || wow.equals("")){
+            			wow = "an";
+            		}
+            	%>
+                $('.<%=wow%>').addClass("selected");
+                $('.<%=wow%>').trigger("click");
+                $('.<%=wow%>').trigger("focus");
+            });
+        </script>
     </body>
 
     </html>
