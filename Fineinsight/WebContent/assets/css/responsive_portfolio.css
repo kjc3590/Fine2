@@ -414,7 +414,6 @@
 		.content-right1 {
 			padding-top: 80px;
 		}
-		}
 	.menusuit {
 		height: 8%;
 		position: absolute;
@@ -437,6 +436,7 @@
 		} */
 		#mainban {
 			margin-left: 0;
+		}
 		}
 
 		/* 	.portfolio-image {

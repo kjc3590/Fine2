@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
 	font-family: 'open_sansregular';
 	src: url('OpenSans-Regular-webfont.eot');
 	src: url('OpenSans-Regular-webfont.eot?#iefix')
@@ -55,7 +55,7 @@
 		url('OpenSans-Semibold-webfont.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
-}
+} */
 
 /* ���� */
 @font-face {
@@ -69,12 +69,12 @@
 	font-style: normal;
 }
 
-@font-face {
+/* @font-face {
 	font-family: 'Nunito Sans-Black';
 	src: url('NunitoSans-Black.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
-}
+} */
 
 @font-face {
 	font-family: 'Nunito Sans';
@@ -82,7 +82,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
-
+/* 
 @font-face {
 	font-family: 'Nunito Sans-Light';
 	src: url('NunitoSans-Light.ttf') format('truetype');
@@ -103,7 +103,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
-
+ */
 /* glyphicon */
 .glyphicon-align-justify:before {
 	content: "\e055";
@@ -140,14 +140,14 @@
 	font-style: normal;
 }
 
-@font-face {
+/* @font-face {
 	font-family: 'graves';
 	src: url('DXBJMB-KSCpc-EUC-H.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
-
+ */
 
 
 
@@ -171,7 +171,7 @@
 }
 
 
-
+/* 
 @font-face {
   font-family: 'Crimson';
 
@@ -214,5 +214,5 @@
   src: url('../fonts/NewsCycle-Regular.ttf') format('truetype');
   font-weight: normal;
 	font-style: normal;
-}
+} */
 

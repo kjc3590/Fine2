@@ -83,21 +83,7 @@
 	</div>
 
 
-	<!-- 
-	<script src="assets/js/jquery-3.1.1.min.js"></script>
-	<script
-		src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
 
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.magnific-popup.min.js"
-		type="text/javascript"></script>
-	<script src="assets/js/sidebar2.js"></script>
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<script src="assets/js/typed.js"></script>
-	<script src="assets/js/wow.min.js"></script>
-	<script src="assets/js/scrollreveal.min.js"></script>
-	<script src="assets/js/custom.js"></script>
- -->
 
 	<script src="assets/js/jquery-3.1.1.min.js"></script>
 	<script
