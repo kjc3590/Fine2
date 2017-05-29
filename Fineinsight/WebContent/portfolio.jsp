@@ -99,7 +99,7 @@
                             
                             <div class="ED element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/ED/600-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-1.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="descT">leaflet</p>
                                             <p class="descT2">#FEATURE STORY #NEW CONSTRUCTION</p>
@@ -110,7 +110,7 @@
                             
                             <div class="ED element igrid iso-box col-lg-8 col-md-8 col-xs-8">
                                 <a href="assets/images/ED/1200-3.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-3.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">leaflet</p>
                                             <p class="desc2">#FEATURE STORY #NEW CONSTRUCTION</p>
@@ -149,7 +149,7 @@
                                                         
                             <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/HIS/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-2.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -182,7 +182,7 @@
                             
                            <div class="HIS element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/HIS/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/600-1.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -215,7 +215,7 @@
                             
                            <div class="MP element igrid iso-box col-lg-6 col-md-6 col-xs-6">
                                 <a href="assets/images/MP/900-2.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/900-2.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="descF">Brand Design</p>
                                             <p class="descF2">베스티안 부산병원 브로셔</p>
@@ -226,7 +226,7 @@
                             
                            <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/MP/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-1.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -259,7 +259,7 @@
                             
                            <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/MP/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-2.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -281,7 +281,7 @@
                             
                            <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
                                 <a href="assets/images/UIUX/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-1.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -291,7 +291,7 @@
                             </div>
                            <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
                                 <a href="assets/images/UIUX/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-1.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
@@ -303,7 +303,7 @@
                             
                            <div class="UIUX element igrid iso-box col-lg-12 col-md-12 col-xs-12">
                                 <a href="assets/images/UIUX/1800-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-2.png" class="trueimage">
-                                    <div class="decription-wrap">
+                                    <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>

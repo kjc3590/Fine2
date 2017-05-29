@@ -453,7 +453,7 @@ canvas {
 
 .iso-box-wrapper {
 	margin-top: -30px;
-	margin-bottom: 20px;
+	
 }
 
 .iso-box-wrapper .iso-box {
@@ -656,7 +656,7 @@ p {
 }
 
 .portfolio-image .igrid:hover .description-wrap {
-	background: rgba(186, 186, 186, 0.6);
+	
 }
 
 .no-pdl {
@@ -683,7 +683,9 @@ h1.fine {
 	display: block;
 	position: relative;
 	overflow: hidden;
-	padding-top: 31px;
+	padding-top: 33px;
+	padding-bottom: 10px; 
+	padding-right:15px;
 }
 
 a:focus {
@@ -753,6 +755,7 @@ a {
 	top: 0;
 	/* 	-webkit-filter: grayscale(100%); */
 	transition: filter, transform, 0.5s;
+	box-shadow:0px 0px 9px 2.3px rgba(204, 204, 204, 0.59);
 }
 
 img {
@@ -765,8 +768,8 @@ img {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: rgba(114, 153, 156, 0.04);
-	padding: 30px 15px 0px 15px;
+	/* background: rgba(114, 153, 156, 0.04); */
+	/* padding: 30px 15px 0px 15px; */
 	transition: background, 0.5s;
 }
 
@@ -1581,4 +1584,6 @@ img {
 	margin: 0 auto 10px auto;
 	background-size: 80px 22px;
 }
+
+
 
