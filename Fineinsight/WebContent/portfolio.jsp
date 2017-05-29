@@ -68,8 +68,8 @@
                                 <a href="assets/images/ED/1800-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="descF">Brand Design</p>
-                                            <p class="descF2">베스티안 부산병원 브로셔</p>
+                                            <p class="descF">#Editorial Design</p>
+                                            <p class="descF2">Bestian Busan Hospital Brochure</p>
                                         </div>
                                     </div>
                                 </a>
@@ -79,7 +79,7 @@
                                 <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
+                                            <p class="desc">#Editiorial Design</p>
                                             <p class="desc2">Journal of Contemporary Korean Studies</p>
                                         </div>
                                     </div>
@@ -90,8 +90,8 @@
                                 <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
-                                            <p class="desc">Editiorial Design</p>
-                                            <p class="desc2">삼성 열정레시피</p>
+                                            <p class="desc">#Editiorial Design</p>
+                                            <p class="desc2">Samsung Passion recipe</p>
                                         </div>
                                     </div>
                                 </a>
@@ -101,8 +101,8 @@
                                 <a href="assets/images/ED/600-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
-                                            <p class="descT">leaflet</p>
-                                            <p class="descT2">#FEATURE STORY #NEW CONSTRUCTION</p>
+                                            <p class="descT">#Editiorial Design</p>
+                                            <p class="descT2"></p>
                                         </div>
                                     </div>
                                 </a>
