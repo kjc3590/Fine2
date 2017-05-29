@@ -189,7 +189,7 @@ canvas {
 	background-color: transparent; /* Black*/
 	overflow-x: hidden; /* Disable horizontal scroll */
 	padding-top: 60px; /* Place content 60px from the top */
-	transition:0.5s;
+	
 	
 }
 
@@ -804,7 +804,7 @@ img {
 	width: calc(100% - 30px);
 	/* height: 10rem; */
 	padding: 30px;
-	background: rgba(0, 0, 0, 0.79);
+	background: rgba(0, 0, 0, 0.42);
 	/* margin: auto; */
 }
 

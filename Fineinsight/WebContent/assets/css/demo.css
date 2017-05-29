@@ -234,6 +234,7 @@ svg.polaroid rect {
 	border-bottom-right-radius: 12%;
 	box-shadow: 10px 10px 5px rgba(14, 7, 53, 0.46);
 		transition: 1.2s;
+		background:white !important;
 }
 
 .photostack-flip h2 {
@@ -247,6 +248,7 @@ svg.polaroid rect {
 
 .mun {
 	opacity:1.0;
+	
 }
 
 /* 

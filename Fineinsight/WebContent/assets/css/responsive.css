@@ -367,8 +367,9 @@
 	.content-right {
 		padding-top: 50px;
 	}
+		}
 	.menusuit {
-		height: 6%;
+		height: 8%;
 		position: absolute;
 		background: white;
 		width: 100%;
@@ -376,7 +377,7 @@
 		z-index: 1;
 	}
 	.menusuit .menubutton {
-		top: 15%;
+		top: 20%;
 		width: 0%;
 		text-align: left;
 		margin-left: 12px;

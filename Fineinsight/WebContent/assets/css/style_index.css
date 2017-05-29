@@ -121,7 +121,7 @@ body {
 	position: relative;
 	width: 100%;
 	height: 100%;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 h1, h2, h3, h4, h5 {
@@ -178,7 +178,7 @@ canvas {
 	vertical-align: bottom;
 }
 
-/* íš„ì§­ì°½ï¿½ê¶—í„íš‚ì§­íš„ì§­íš‚í˜¶íš‚ì¨ˆíš„ì§¬ì°½ï¿½ê¶—í¹íš‡ï¿½ì‘¦êºœãƒƒê¶°ê±˜â„¢ê¶—í˜¶ CSS */
+/* 챠큄�왗�짠짯챙째쩍챦쩔쩍챗쨋�붌�혖�왗�큄�싀�짠짯챠큄�왗�짠짯챠큄�싀��쑣뗐�큄�싀�짢�녍�큄�왗�짠짭챙째쩍챦쩔쩍챗쨋�붌�혶쨔챠큄�≥�쩔쩍챙�샕┚ぢ뵀벭Ｆ뮿뮼ぢ뗏걘ぢ궤쑦™�왖▣ぢ뜯�붌��쑣� CSS */
 .sidenav {
 	height: 100%; /* 100% Full-height */
 	width: 0; /* 0 width - change this with JavaScript */

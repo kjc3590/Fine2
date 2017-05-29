@@ -6,7 +6,7 @@ jQuery(window).on('load', function(){
 
 	   if ($(window).width() > 991){
 			 $('.menusuit .menubutton').css('color','white');
-			 $('.menusuit').css('background','rgba(128, 128, 128, 0.81)');
+			 $('.menusuit').css('background','rgba(34, 33, 31, 0.67)');
 
 			 
 			
