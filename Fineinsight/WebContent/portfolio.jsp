@@ -50,7 +50,7 @@
                         <div class="iso-box-wrapper">
                         
                             <div class="ED element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/ED/1800-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1800-1.png" class="trueimage">
+                                <a href="assets/images/ED/1800-1.png" data-lightbox-gallery="portfolio-galleryE"> <img alt="image" src="assets/images/ED/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descF">#Editorial Design</p>
@@ -61,7 +61,7 @@
                             </div>
                             
                             <div class="ED element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery"> <img alt="image" src="assets/images/ED/1200-1.png" class="trueimage">
+                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-galleryE"> <img alt="image" src="assets/images/ED/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">#Editiorial Design</p>
@@ -72,7 +72,7 @@
                             </div>
                             
                             <div class="ED element igrid iso-box col-lg-6 col-md-6 col-xs-6">
-                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
+                                <a href="assets/images/ED/1200-1.png" data-lightbox-gallery="portfolio-galleryE"> <img alt="image" src="assets/images/ED/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">#Editiorial Design</p>
@@ -83,7 +83,7 @@
                             </div>
                             
                             <div class="ED element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/ED/600-1.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/600-1.png" class="trueimage">
+                                <a href="assets/images/ED/600-1.png" data-lightbox-gallery="portfolio-galleryE"> <img alt="image" src="assets/images/ED/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="descT">#Editiorial Design</p>
@@ -94,7 +94,7 @@
                             </div>
                             
                             <div class="ED element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/ED/1200-3.png" data-lightbox-gallery="portfolio-gallery2"> <img alt="image" src="assets/images/ED/1200-3.png" class="trueimage">
+                                <a href="assets/images/ED/1200-3.png" data-lightbox-gallery="portfolio-galleryE"> <img alt="image" src="assets/images/ED/1200-3.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">#Editiorial Design</p>
@@ -111,7 +111,7 @@
                          
                             
                            <div class="HIS element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/HIS/1800-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/HIS/1800-1.png" class="trueimage">
+                                <a href="assets/images/HIS/1800-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/HIS/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="descF">#HIS System</p>
@@ -210,7 +210,7 @@
                             </div>
                             
                            <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/MP/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-1.png" class="trueimage">
+                                <a href="assets/images/MP/600-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">#Social Media Planning</p>
@@ -221,7 +221,7 @@
                             </div>
                             
                             <div class="MP element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/MP/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-1.png" class="trueimage">
+                                <a href="assets/images/MP/1200-1.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/1200-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">#Social Media Planning</p>
@@ -232,7 +232,7 @@
                             </div>
                             
                             <div class="MP element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/MP/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/1200-2.png" class="trueimage">
+                                <a href="assets/images/MP/1200-2.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">#Social Media Planning</p>
@@ -243,7 +243,7 @@
                             </div>
                             
                            <div class="MP element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/MP/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/MP/600-2.png" class="trueimage">
+                                <a href="assets/images/MP/600-2.png" data-lightbox-gallery="portfolio-galleryS"> <img alt="image" src="assets/images/MP/600-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">#Social Media Planning</p>
@@ -254,7 +254,7 @@
                             </div>
                             
                            <div class="UIUX element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/UIUX/1800-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-1.png" class="trueimage">
+                                <a href="assets/images/UIUX/1800-1.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/1800-1.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -265,7 +265,7 @@
                             </div>
                             
                            <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/UIUX/600-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-1.png" class="trueimage">
+                                <a href="assets/images/UIUX/600-1.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/600-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -275,7 +275,7 @@
                                 </a>
                             </div>
                            <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/UIUX/1200-1.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-1.png" class="trueimage">
+                                <a href="assets/images/UIUX/1200-1.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/1200-1.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -287,7 +287,7 @@
 
                             
                            <div class="UIUX element igrid iso-box col-lg-12 col-md-12 col-xs-12">
-                                <a href="assets/images/UIUX/1800-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1800-2.png" class="trueimage">
+                                <a href="assets/images/UIUX/1800-2.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/1800-2.png" class="trueimage">
                                     <div class="decription-wrap bg-maker">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -298,7 +298,7 @@
                             </div>
                             
                            <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/UIUX/1200-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-2.png" class="trueimage">
+                                <a href="assets/images/UIUX/1200-2.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/1200-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -308,7 +308,7 @@
                                 </a>
                             </div>                            
                            <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/UIUX/600-2.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-2.png" class="trueimage">
+                                <a href="assets/images/UIUX/600-2.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/600-2.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -319,7 +319,7 @@
                             </div>
                             
                            <div class="UIUX element igrid iso-box col-lg-4 col-md-4 col-xs-4">
-                                <a href="assets/images/UIUX/600-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/600-3.png" class="trueimage">
+                                <a href="assets/images/UIUX/600-3.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/600-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
@@ -330,7 +330,7 @@
                             </div>                            
                             
                            <div class="UIUX element igrid iso-box col-lg-8 col-md-8 col-xs-8">
-                                <a href="assets/images/UIUX/1200-3.png" data-lightbox-gallery="portfolio-galleryH"> <img alt="image" src="assets/images/UIUX/1200-3.png" class="trueimage">
+                                <a href="assets/images/UIUX/1200-3.png" data-lightbox-gallery="portfolio-galleryU"> <img alt="image" src="assets/images/UIUX/1200-3.png" class="trueimage">
                                     <div class="decription-wrap">
                                         <div class="image-bg">
                                             <p class="desc">UI/UX</p>
