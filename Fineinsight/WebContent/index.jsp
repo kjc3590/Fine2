@@ -13,6 +13,7 @@
 <link href="assets/css/animate.css" rel="stylesheet">
 <link href="assets/css/responsive_index.css" rel="stylesheet">
 <link href="assets/css/new.css" rel="stylesheet">
+
 </head>
 <body>
 	<div id="preloader">
@@ -39,15 +40,10 @@
 		</div>
 	</div>
 <script src="assets/js/jquery-3.1.1.min.js"></script>
-
 <script src="assets/js/bootstrap.min.js"></script>
-
 <script src="assets/js/sidebar_index.js"></script>
-
 <script src="assets/js/typed.js"></script>
 <script src="assets/js/wow.min.js"></script>
-
-
 <script src="hututu/particles.js"></script>
 <script src="assets/js/app.js"></script>
 <script src="assets/js/custom.js"></script>
