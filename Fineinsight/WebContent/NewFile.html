@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+	<script src="http://code.jquery.com/jquery.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	<link rel="stylesheet" href="css/index.css"/>
+	
+    <title>파인스킨</title>
+ 	 	
+</head>
+<body>
+<div data-role="page">
+		<div data-role="panel" id="pnlMenu" data-display="overlay">
+   			<img src="./img/FineInsightLogo2.jpg" width="100%">
+   			<br/>
+   			<a href="login/loginmain.html" data-role="button">로그인</a>
+   			<hr/>
+   			
+   			<ul data-inset="true" data-role="listview" id="pnlList" >
+   				<li><a href="weather/frmWeather.html">오늘의 피부 날씨</a></li>
+   				<li><a href="category/frmCategory.html">피부 정보</a></li>
+   				<li><a href="favorite/frmSkinFavorite.html">즐겨찾기</a></li>
+   				<li><a href="http://blog.naver.com/qkrina/221007715663">블로그</a></li>
+   				<li><a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox">앱 평가하기</a></li>
+   			</ul>
+   		</div>
+   		
+    
+		<div data-role="header" class="ui-alt-icon ui-nodisc-icon" id="frmHeader">
+			<div>
+			<a id="topmenu" href = "#pnlMenu" class="ui-btn ui-icon-grid ui-shadow ui-corner-all ui-btn-icon-notext ui-btn-inline"></a>
+			<a id="search" href="#" class="ui-btn ui-icon-search ui-shadow ui-corner-all ui-btn-icon-notext ui-btn-inline"></a>
+			</div>
+		</div>
+	
+		
+   <div role="main"  class="whiteboard">
+         
+         <button id = "getIt" >Get JSON</button>   
+         <div id="weather"></div>
+      </div>
+      
+      <script type="text/javascript">
+	      var init = function(){
+	         $("#getIt").click(function(){
+	            $.ajax({
+	               url:"http://fineinsight.kr/Lime/index.jsp",
+	               type: "get",
+	               dataType:"text",
+	               success:function(data){
+	                  $(data).each(function(){
+	                    var id = this.id;
+
+	                     	
+	                     $("<p>").css({
+	                        border:"solid 2px pink",
+	                        margin: "5px"
+	                     }).html(id);
+	                  });
+	               },
+	               error: function(xhr, textStatus, errMsg){
+	                  $("#weather").html("<p>" + textStatus + "(HTTP-" + xhr.status + " / " + errMsg + ") </p>");
+	               }
+	            });
+	         });
+	      }
+	      
+	      $(document).ready(init);
+      </script>
+
+		<div data-role="footer" data-position="fixed">
+			<div data-role="navbar" data-iconpos="top">
+				<ul>
+					<li><a id="weather" href="weather/frmWeather.html" >피부날씨</a></li>  <!--  class="ui-btn-active" -->
+					<li><a href="category/frmCategory.html" >피부정보</a></li>
+					<li><a href="favorite/frmSkinFavorite.html" >즐겨찾기</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

@@ -43,7 +43,6 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/sidebar_index.js"></script>
 <script src="assets/js/typed.js"></script>
-<script src="assets/js/wow.min.js"></script>
 <script src="hututu/particles.js"></script>
 <script src="assets/js/app.js"></script>
 <script src="assets/js/custom.js"></script>

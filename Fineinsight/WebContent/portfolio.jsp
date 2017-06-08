@@ -17,7 +17,6 @@
         <!-- 추가 -->
         <link rel="stylesheet" href="assets/css/nivo-lightbox.css">
         <link rel="stylesheet" href="assets/css/nivo_themes/default/default.css">
-        
     </head>
 
     <body style="background: white;">
